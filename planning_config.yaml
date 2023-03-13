@@ -1,0 +1,35 @@
+bounding_box:
+- -5
+- 25
+- -15
+- 15
+- 0
+- 15
+checking_depth: 1.01
+cut_off: 17
+cx: 163.211
+cy: 117.88
+depth_scale: 0.0010000000474974513
+env: actual
+fx: 194.538
+fy: 194.538
+goal:
+- 18.0
+- 0.0
+- 5.0
+goal_distance: 8
+goal_lat: -35.363172795520015
+goal_lon: 149.16522676522504
+height: 240
+planning_depth: 0.75
+plots: true
+sfc_minimum_height: 10
+sfc_minimum_width: 20
+timeout: 60
+topics:
+  finish: finish_navigation
+  obstacles: dodgeros_pilot/groundtruth/obstacles
+  quad_name: kingfisher
+  start: start_navigation
+  state: dodgeros_pilot/state
+width: 320

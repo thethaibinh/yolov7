@@ -6,7 +6,7 @@ bounding_box:
 - 0
 - 15
 checking_depth: 1.01
-cut_off: 17
+cut_off: 15
 cx: 163.211
 cy: 117.88
 depth_scale: 0.0010000000474974513
